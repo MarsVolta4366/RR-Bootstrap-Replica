@@ -13,7 +13,6 @@ export default function StoreGallery() {
                         <Card.Body style={{ textAlign: "left" }}>
                             <div style={{ display: "inline-block", margin: "2.5px" }}>
                                 <img src="../../ALDILogo.webp" alt="ALDI logo" className="rounded-circle" style={{ border: "1px solid lightgray", width: "60px" }} />
-
                             </div>
                             <div style={{ display: "inline-block", verticalAlign: "middle", margin: "2.5px" }}>
                                 <Card.Title>ALDI</Card.Title>
@@ -27,7 +26,6 @@ export default function StoreGallery() {
                         <Card.Body style={{ textAlign: "left" }}>
                             <div style={{ display: "inline-block", margin: "2.5px" }}>
                                 <img src="../../woodmansLogo.webp" alt="Woodman's logo" className="rounded-circle" style={{ border: "1px solid lightgray", width: "60px" }} />
-
                             </div>
                             <div style={{ display: "inline-block", verticalAlign: "middle", margin: "2.5px" }}>
                                 <Card.Title>Woodman's Food Markets</Card.Title>
@@ -41,7 +39,6 @@ export default function StoreGallery() {
                         <Card.Body style={{ textAlign: "left" }}>
                             <div style={{ display: "inline-block", margin: "2.5px" }}>
                                 <img src="../../costcoLogo.webp" alt="Costco logo" className="rounded-circle" style={{ border: "1px solid lightgray", width: "60px" }} />
-
                             </div>
                             <div style={{ display: "inline-block", verticalAlign: "middle", margin: "2.5px" }}>
                                 <Card.Title>Costco</Card.Title>
@@ -57,7 +54,6 @@ export default function StoreGallery() {
                         <Card.Body style={{ textAlign: "left" }}>
                             <div style={{ display: "inline-block", margin: "2.5px" }}>
                                 <img src="../../picknSaveLogo.webp" alt="Pick 'n Save logo" className="rounded-circle" style={{ border: "1px solid lightgray", width: "60px" }} />
-
                             </div>
                             <div style={{ display: "inline-block", verticalAlign: "middle", margin: "2.5px" }}>
                                 <Card.Title>Pick 'n Save</Card.Title>
@@ -71,7 +67,6 @@ export default function StoreGallery() {
                         <Card.Body style={{ textAlign: "left" }}>
                             <div style={{ display: "inline-block", margin: "2.5px" }}>
                                 <img src="../../theWineShopLogo.webp" alt="The Wine Shop logo" className="rounded-circle" style={{ border: "1px solid lightgray", width: "60px" }} />
-
                             </div>
                             <div style={{ display: "inline-block", verticalAlign: "middle", margin: "2.5px" }}>
                                 <Card.Title>The Wine Shop</Card.Title>
@@ -85,7 +80,6 @@ export default function StoreGallery() {
                         <Card.Body style={{ textAlign: "left" }}>
                             <div style={{ display: "inline-block", margin: "2.5px" }}>
                                 <img src="../../familyDollarLogo.webp" alt="Family Dollar logo" className="rounded-circle" style={{ border: "1px solid lightgray", width: "60px" }} />
-
                             </div>
                             <div style={{ display: "inline-block", verticalAlign: "middle", margin: "2.5px" }}>
                                 <Card.Title>Family Dollar</Card.Title>
